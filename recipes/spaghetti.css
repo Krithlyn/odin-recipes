@@ -1,0 +1,10 @@
+* {
+    background: cornsilk;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.image {
+    max-width: 100%;
+    height: auto;
+}

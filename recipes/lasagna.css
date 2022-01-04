@@ -1,0 +1,18 @@
+* {
+    background: orangered;
+    text-align: center;
+}
+
+.header {
+    font-weight: bold;
+    font-size: 40px;
+}
+
+.image {
+    max-width: 100%;
+    height: auto;
+}
+
+.ol {
+    color: green;
+}
